@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "nom": "epe",
+    "categorie": "mele",
+    "type": "arme",
+    "artos": "jsp",
+    "materiaux": "metal",
+    "tier": "3",
+    "enchentement": "4",
+    "sort": "blabla",
+    "attack": "djwopa",
+    "crafter": "bob"
+  },
+  {
+    "id": "1",
+    "nom": "epe",
+    "categorie": "mele",
+    "type": "arme",
+    "artos": "jsp",
+    "materiaux": "metal",
+    "tier": "3",
+    "enchentement": "4",
+    "sort": "blabla",
+    "attack": "djwopa",
+    "crafter": "bob"
+  }
+]

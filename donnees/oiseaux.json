@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "nom": "Goéland",
+    "description": "C'est un oiseau argenté."
+  },
+  {
+    "id": "2",
+    "nom": "Corbeau",
+    "description": "C'est un oiseau noir."
+  },
+  {
+    "id": "3",
+    "nom": "Colibri",
+    "description": "C'est un petit oiseau."
+  }
+]
